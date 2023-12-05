@@ -1,0 +1,25 @@
+{
+  "name": "api-health-checker-pbscybsec
+  "version": "1.0.0",
+  "description": "This is a node application to check the availability of the backend service components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "pbscybsec",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "chalk": "^4.1.1",
+    "express": "^4.17.1",
+    "glob": "^7.1.7",
+    "jsonschema": "^1.4.0",
+    "log-timestamp": "^0.3.0",
+    "node-cache": "^5.1.2"
+  }
+}

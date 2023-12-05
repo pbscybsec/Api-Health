@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Website Service",
+    "description": "This service will be using to view website.",
+    "id": "website",
+    "environment": "prod",
+    "url": "https://pbscybsec.github.io/",
+    "contact": "aryastha@proton.me"
+  },
+  {
+    "name": "CTF Service",
+    "description": "This service will be using to view,submit CTF.",
+    "id": "ctf",
+    "environment": "prod",
+    "url": "https://ctf-qg29.onrender.com/",
+    "contact": "aryanstha@proton.me"
+  },
+  {
+    "name": "Hackthis Service",
+"description": "This service will be using to view, solve, submit code in Hackthis.",
+    "id": "hackthis",
+    "environment": "prod",
+    "url": "https://www.hackerrank.com/hackthis-1",
+    "contact": "aryanstha4859@gmail.com"
+  },
+  {
+    "name": "Badge Service",
+"description": "This service will be using to view a badges.",
+    "id": "badge",
+    "environment": "prod",
+    "url": "https://pbscybsec.github.io/Badges/",
+    "contact": "aryanstha4859@gmail.com"
+  },
+  
+  {
+    "name": "Authentication Service",
+    "description": "This service will be using to get authentication token.",
+    "id": "auth",
+    "environment": "prod",
+    "url": "https://pbscybsec.vercel.app/",
+    "contact": "aryanstha@proton.me"
+  },
+  {
+    "name": "User Service",
+    "description": "This service will be using to view, create, edit, and delete a user.",
+    "id": "user",
+    "environment": "prod",
+    "url": "https://leader4.onrender.com/api/users",
+    "contact": "aryanstha@proton.me"
+  },
+  {
+    "name": "Leaderboard Service",
+    "description": "This service will be using get all metrics data.",
+    "id": "document",
+    "environment": "uat",
+    "url": "https://pbscybsec.github.io/leaderboard/",
+    "contact": "serinapokhrel@gmail.com"
+  },
+
+  {
+    "name": "Student Management Service",
+    "description": "This service will be using for all the student management functions.",
+    "id": "student",
+    "environment": "uat",
+    "url": "https://mem.pbsgala.repl.co/students",
+    "contact": "osanda@maxsoft.com"
+  },
+  {
+    "name": "Course Management Service",
+    "description": "This service will be using for all the course management functions.",
+    "id": "course",
+    "environment": "uat",
+    "url": "https://pbscybsec.github.io/learning.html",
+    "contact": ""
+  },
+  {
+    "name": "Github Service",
+    "description": "This service will be using for all the github id & repos.",
+    "id": "github",
+    "environment": "uat",
+    "url": "https://api.github.com/orgs/pbscybsec",
+    "contact": "aryanstha@proton.me"
+  }
+]
