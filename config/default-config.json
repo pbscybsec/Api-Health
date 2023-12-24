@@ -81,4 +81,12 @@
     "url": "https://api.github.com/orgs/pbscybsec",
     "contact": "aryanstha@proton.me"
   }
+  {
+    "name": "Profile Service",
+    "description": "This service will be using for all the users-profile.",
+    "id": "profile",
+    "environment": "uat",
+    "url": "https://api-profile-v5po.onrender.com/health",
+    "contact": "aryanstha@proton.me"
+  }
 ]
